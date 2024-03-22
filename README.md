@@ -35,6 +35,14 @@ Berikut adalah beberapa proyek yang sedang saya kerjakan:
 
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=bayudamarbr&theme=radical)
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayudamarbr&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bayudamarbr&theme=react-dark)
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/bayudamarbr/bayudamarbr/output/github-contribution-grid-snake.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bayudamarbr&color=blueviolet&label=Profile+Views)
+
 ## Hubungi Saya
 
 📧 Jangan ragu untuk menghubungi saya melalui email di [bayudamar802@gmail.com](mailto:bayudamar802@gmail.com) atau terhubung dengan saya di [LinkedIn](https://www.linkedin.com/in/bayudamarbr/).
