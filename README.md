@@ -1,42 +1,42 @@
-# Hello there, I'm [Your Name](https://github.com/yourusername) 👋
+# Halo, Saya [Bayu Damar Breh Pambudi](https://github.com/bayudamarbr) 👋
 
-## About Me
+## Tentang Saya
 
-👨‍💻 I'm a passionate developer striving to create impactful solutions through code.
+👨‍💻 Saya seorang pengembang yang bersemangat untuk menciptakan solusi-solusi yang berdampak melalui kode.
 
-🌱 I'm currently honing my skills in various programming languages and frameworks.
+🌱 Saat ini, saya sedang mengasah keterampilan saya dalam berbagai bahasa pemrograman dan kerangka kerja.
 
-💼 I'm open to exciting opportunities and collaborations.
+💼 Saya terbuka untuk kesempatan dan kolaborasi yang menarik.
 
-## My Interests
+## Minat Saya
 
-- 🚀 Web Development
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🎨 UI/UX Design
+- 🚀 Pengembangan Web
+- 📊 Ilmu Data
+- 🤖 Pembelajaran Mesin
+- 🎨 Desain UI/UX
 
-## Projects
+## Proyek
 
-Here are some of the projects I've been working on:
+Berikut adalah beberapa proyek yang sedang saya kerjakan:
 
-- [Project 1](link_to_repository): Brief description of project 1.
-- [Project 2](link_to_repository): Brief description of project 2.
-- [Project 3](link_to_repository): Brief description of project 3.
+- [Proyek 1](link_to_repository): Deskripsi singkat proyek 1.
+- [Proyek 2](link_to_repository): Deskripsi singkat proyek 2.
+- [Proyek 3](link_to_repository): Deskripsi singkat proyek 3.
 
-## GitHub Stats
+## Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=bayudamarbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Bahasa Pemrograman Utama](https://github-readme-stats.vercel.app/api/top-langs/?username=bayudamarbr&layout=compact&theme=radical)
 
-![Commits Per Year](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Commits%20Per%20Year)
+![Jumlah Komit per Tahun](https://github-readme-stats.vercel.app/api?username=bayudamarbr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Jumlah%20Komit%20per%20Tahun)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bayudamarbr&theme=radical)
 
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![Trophy Stats](https://github-profile-trophy.vercel.app/?username=bayudamarbr&theme=radical)
 
-## Get in Touch
+## Hubungi Saya
 
-📧 Feel free to contact me via email at [youremail@example.com](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+📧 Jangan ragu untuk menghubungi saya melalui email di [bayudamar802@gmail.com](mailto:bayudamar802@gmail.com) atau terhubung dengan saya di [LinkedIn](https://www.linkedin.com/in/bayudamarbr/).
 
-Thanks for stopping by! 😊
+Terima kasih telah mampir! 😊
