@@ -10,15 +10,13 @@
 ```javascript
 const bayu = {
   role: "Full-Stack Developer",
-  code: ["JavaScript", "TypeScript", "Python", "PHP", "Java"],
-  tools: ["React", "Node.js", "Docker", "AWS", "TensorFlow"],
-  challenge: "Mengembangkan solusi inovatif yang membuat dunia lebih baik",
-  learningNow: "Arsitektur Microservice & AI/ML",
-  funFact: "Kopi adalah sumber energi utama saya untuk coding marathon!"
+  code: ["JavaScript", "C#", "Python", "PHP", "Java"],
+  tools: ["React", "Node.js", "Docker", "Laravel", "Express.js"],
+  learningNow: "Software Development & AI/ML",
 };
 ```
 
-Saya seorang pengembang yang bersemangat dalam menciptakan solusi teknologi yang berdampak. Dengan latar belakang dalam pengembangan web dan ilmu data, saya selalu mencari cara untuk menggabungkan kreativitas dan teknologi untuk mengatasi tantangan kompleks.
+Saya seorang pengembang yang bersemangat dalam menciptakan solusi teknologi yang berdampak. Dengan latar belakang dalam pengembangan web dan desktop, saya selalu mencari cara untuk menggabungkan kreativitas dan teknologi untuk mengatasi tantangan kompleks.
 
 ## 🔥 Tech Stack
 
@@ -32,7 +30,6 @@ Saya seorang pengembang yang bersemangat dalam menciptakan solusi teknologi yang
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -48,10 +45,10 @@ Saya seorang pengembang yang bersemangat dalam menciptakan solusi teknologi yang
 ## 🚀 Proyek Unggulan
 
 <div align="center">
-  <a href="link_to_repository">
+  <a href="https://github.com/bayudamarbr/aplikasi-sps">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayudamarbr&repo=nama_repo_1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="link_to_repository">
+  <a href="https://github.com/Nutrizen-Capstone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayudamarbr&repo=nama_repo_2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
@@ -59,7 +56,7 @@ Saya seorang pengembang yang bersemangat dalam menciptakan solusi teknologi yang
 ## 🌱 Fokus Pengembangan
 
 - 🚀 Arsitektur aplikasi scalable dan performant
-- 🤖 Integrasi AI dalam aplikasi web dan mobile
+- 🤖 Integrasi AI dalam aplikasi web dan desktop
 - 📊 Data science dan visualisasi
 - 🔐 Keamanan web dan praktik terbaik DevOps
 
@@ -82,4 +79,3 @@ Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek menarik atau berdisk
 </p>
 ```
 
-Jangan lupa untuk mengganti placeholder seperti `nama_repo_1` dan `nama_repo_2` dengan nama repositori aktual Anda, serta menyesuaikan bahasa pemrograman dan teknologi yang tercantum sesuai dengan keahlian Anda yang sebenarnya.
