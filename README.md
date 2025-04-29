@@ -49,7 +49,7 @@ Saya seorang pengembang yang bersemangat dalam menciptakan solusi teknologi yang
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayudamarbr&repo=aplikasi-sps&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Nutrizen-Capstone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bayudamarbr&repo=Nutrizen-Capstone&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/orgs&repo=Nutrizen-Capstone&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
